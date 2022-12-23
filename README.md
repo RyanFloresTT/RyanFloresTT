@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyanFloresTT
-- 👀 I’m interested in Full Stack Web Development!
-- 🌱 I’m currently learning CSS | HTML | JS 
+- 👀 I’m interested in Game Development!
+- 🌱 I’m currently learning Unity, C#, and Python
 - 💞️ I’m looking to collaborate on anyting I can get my hands dirty on and learn from!
 - 📫 Reach me by E-Mail (rryanflorres@gmail.com), Discord (TrustyTea#5574), or Twitter (@_TrustyTea)
