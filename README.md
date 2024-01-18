@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanFloresTT
 - 👀 I’m interested in Game Development!
-- 🌱 I’m currently learning Unity, C#
+- 🌱 I’m currently learning Unity, C#, .NET
 - 💞️ I’m looking to collaborate on anything I can get my hands dirty on and learn from!
 - 📫 Reach me by E-Mail (rryanflorres@gmail.com), Discord (TrustyTea#5574), or Twitter (@_TrustyTea)
 
