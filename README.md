@@ -12,4 +12,4 @@
 
 - 📫 Reach me by E-Mail (rryanflorres@gmail.com), Discord (TrustyTea#5574), or Twitter (@_TrustyTea)
   
-![RyanFloresTT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanFloresTT&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFloresTT&layout=compact&theme=transparent&hide=shaderlab,HTML,hlsl,css)](https://github.com/RyanFloresTT/github-readme-stats)
+![RyanFloresTT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanFloresTT&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFloresTT&layout=compact&theme=transparent&hide=shaderlab,HTML,hlsl,css,mdx)](https://github.com/RyanFloresTT/github-readme-stats)
