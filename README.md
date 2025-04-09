@@ -5,11 +5,11 @@
 </p>
 
 <ul>
-  <li>💻 Software Engineer with a strong foundation in <b>C#</b>, specializing in <b>ASP.NET</b>, <b>.NET</b>, <b>Blazor</b>, and tooling/automation.</li>
-  <li>🎮 Passionate about game development, exploring <b>Unity</b> through minigames and side projects.</li>
-  <li>🔧 Tinkering with <b>Go</b> and <b>Rust</b>, crafting tools and automation scripts to boost productivity.</li>
-  <li>🚀 Constantly striving to grow, learn, and collaborate on exciting projects—whether it’s software engineering or game dev.</li>
-  <li>💞️ Open to collaboration on anything that pushes the boundaries of creativity and technology!</li>
+  <li>💻 Software Engineer with a strong foundation in <b>C#</b>, specializing in <b>.NET</b>, <b>ASP.NET</b>, and <b>Blazor</b>, with a growing focus on game development.</li>
+  <li>🎮 Game dev enthusiast building systems-heavy side projects and prototypes in <b>Unity</b>, with a love for gameplay design and iteration.</li>
+  <li>🧠 Tinkering with <b>C++</b> and libraries like <b>Raylib</b> to deepen low-level game programming knowledge and experiment with custom engines.</li>
+  <li>🕹️ I love <b>game jams</b> and attending <b>local meetups</b>; inspired by games like <b>Diablo</b>, <b>World of Warcraft</b>, and <b>Path of Exile</b>.</li>
+  <li>🚀 Always learning, building, and looking to collaborate on some fun games!</li>
 </ul>
 
 ---
@@ -33,7 +33,7 @@
 <h2 align="center">🛠️ Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,cpp,js,html,css,react,ts,git,github,windows,linux,ubuntu,visualstudio,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,cpp,react,ts,git" alt="Skills" />
   </a>
 </p>
 
